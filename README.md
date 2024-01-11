@@ -1,3 +1,5 @@
+Created a report for AtliQ Hardwares
+
 AtliQ Business Model 💻 
 
 🔹 Hardware company that sell peripherals like PC, Mouse, Keyboard , Printers to Clients across the world.
